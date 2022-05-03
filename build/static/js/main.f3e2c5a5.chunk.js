@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-hooks-hogwarts"]=this["webpackJsonpreact-hooks-hogwarts"]||[]).push([[0],{9:function(o,t,e){"use strict";e.r(t);e(0);var r=e(3),s=e.n(r);var n=function(){console.log("42 parks!")},a=e(1);function c(){return n(),Object(a.jsx)("h1",{children:"Colorado State Parks!"})}s.a.render(Object(a.jsx)(c,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.f3e2c5a5.chunk.js.map
